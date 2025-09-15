@@ -74,3 +74,11 @@ This repo is meant for learning, demos, and portfolio pieces. Use, copy, and ada
    ```bash
    cd day-01
 3. Open the index.html file in your browser (double-click it, or right-click → "Open with Browser").
+
+---
+
+## License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
