@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+body {
+    background: #17313e;
+    color: #fff;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    position: absolute;
+    top: 5rem;
+    font-size: 2.4rem;
+}
+
+.container {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(./assets/clock.png);
+    background-size: cover;
+    position: relative;
+}
+
+#hour-hand {
+    position: absolute;
+    top: 135px;
+    left: 195px;
+    width: 10px;
+    height: 65px;
+    border: 1px solid red;
+    border-radius: 4px;
+    transform-origin: bottom center;
+}
+
+#minute-hand {
+    position: absolute;
+    top: 105px;
+    left: 197px;
+    width: 6px;
+    height: 95px;
+    border: 1px solid yellow;
+    border-radius: 4px;
+    transform-origin: bottom center;
+}
+
+#second-hand {
+    position: absolute;
+    top: 95px;
+    left: 198px;
+    width: 4px;
+    height: 105px;
+    background: white;
+    border-radius: 4px;
+    transform-origin: bottom center;
+}
+
+.center {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    background: white;
+    border-radius: 50%;
+}
