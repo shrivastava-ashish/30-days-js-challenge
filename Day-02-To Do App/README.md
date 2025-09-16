@@ -1,6 +1,6 @@
 ---
 
-# Day 01 - Clock
+# Day 02 - To Do App
 
 A simple and responsive **Todo App** built using **HTML, CSS, and JavaScript**.  
 This app allows users to add, mark as complete, and delete tasks easily.  
@@ -35,4 +35,4 @@ This app allows users to add, mark as complete, and delete tasks easily.
 2. Or run a local server and navigate to the `day-01` folder.  
 
 ## Screenshot
-![Day 01 Screenshot](./assets/day-01.png)
+![Day 01 Screenshot](./assets/day-02.png)
