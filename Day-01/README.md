@@ -24,9 +24,10 @@ This project displays the current time dynamically and updates in real-time.
 ## 📂 Project Structure
 ```bash
 .
+├── assets            # Assets for App
 ├── index.html        # Main HTML file
 ├── style.css         # Clock styling
-└── script.js         # Clock logic
+├── script.js         # Clock logic
 └── README.md         # README.md file
 
 ```
