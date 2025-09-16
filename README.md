@@ -29,36 +29,36 @@ This repo is meant for learning, demos, and portfolio pieces. Use, copy, and ada
 
 | Day | Project |
 |-----:|:--------|
-| 01 | [Day 01 - Clock](Day-01-Clock/README.md) |
-| 02 | [Day 02 - To Do App](Day-02-To Do App/README.md) |
-| 03 | [Day 03 - To be added](day-03/README.md) |
-| 04 | [Day 04 - To be added](day-04/README.md) |
-| 05 | [Day 05 - To be added](day-05/README.md) |
-| 06 | [Day 06 - To be added](day-06/README.md) |
-| 07 | [Day 07 - To be added](day-07/README.md) |
-| 08 | [Day 08 - To be added](day-08/README.md) |
-| 09 | [Day 09 - To be added](day-09/README.md) |
-| 10 | [Day 10 - To be added](day-10/README.md) |
-| 11 | [Day 11 - To be added](day-11/README.md) |
-| 12 | [Day 12 - To be added](day-12/README.md) |
-| 13 | [Day 13 - To be added](day-13/README.md) |
-| 14 | [Day 14 - To be added](day-14/README.md) |
-| 15 | [Day 15 - To be added](day-15/README.md) |
-| 16 | [Day 16 - To be added](day-16/README.md) |
-| 17 | [Day 17 - To be added](day-17/README.md) |
-| 18 | [Day 18 - To be added](day-18/README.md) |
-| 19 | [Day 19 - To be added](day-19/README.md) |
-| 20 | [Day 20 - To be added](day-20/README.md) |
-| 21 | [Day 21 - To be added](day-21/README.md) |
-| 22 | [Day 22 - To be added](day-22/README.md) |
-| 23 | [Day 23 - To be added](day-23/README.md) |
-| 24 | [Day 24 - To be added](day-24/README.md) |
+| 01 | [Day 01 - Clock](Day-01/README.md) |
+| 02 | [Day 02 - To Do App](Day-02/README.md) |
+| 03 | [Day 03 - To be added](Day-03/README.md) |
+| 04 | [Day 04 - To be added](Day-04/README.md) |
+| 05 | [Day 05 - To be added](Day-05/README.md) |
+| 06 | [Day 06 - To be added](Day-06/README.md) |
+| 07 | [Day 07 - To be added](Day-07/README.md) |
+| 08 | [Day 08 - To be added](Day-08/README.md) |
+| 09 | [Day 09 - To be added](Day-09/README.md) |
+| 10 | [Day 10 - To be added](Day-10/README.md) |
+| 11 | [Day 11 - To be added](Day-11/README.md) |
+| 12 | [Day 12 - To be added](Day-12/README.md) |
+| 13 | [Day 13 - To be added](Day-13/README.md) |
+| 14 | [Day 14 - To be added](Day-14/README.md) |
+| 15 | [Day 15 - To be added](Day-15/README.md) |
+| 16 | [Day 16 - To be added](Day-16/README.md) |
+| 17 | [Day 17 - To be added](Day-17/README.md) |
+| 18 | [Day 18 - To be added](Day-18/README.md) |
+| 19 | [Day 19 - To be added](Day-19/README.md) |
+| 20 | [Day 20 - To be added](Day-20/README.md) |
+| 21 | [Day 21 - To be added](Day-21/README.md) |
+| 22 | [Day 22 - To be added](Day-22/README.md) |
+| 23 | [Day 23 - To be added](Day-23/README.md) |
+| 24 | [Day 24 - To be added](Day-24/README.md) |
 | 25 | [Day 25 - To be added](day-25/README.md) |
-| 26 | [Day 26 - To be added](day-26/README.md) |
-| 27 | [Day 27 - To be added](day-27/README.md) |
-| 28 | [Day 28 - To be added](day-28/README.md) |
-| 29 | [Day 29 - To be added](day-29/README.md) |
-| 30 | [Day 30 - To be added](day-30/README.md) |
+| 26 | [Day 26 - To be added](Day-26/README.md) |
+| 27 | [Day 27 - To be added](Day-27/README.md) |
+| 28 | [Day 28 - To be added](Day-28/README.md) |
+| 29 | [Day 29 - To be added](Day-29/README.md) |
+| 30 | [Day 30 - To be added](Day-30/README.md) |
 
 
 ---
