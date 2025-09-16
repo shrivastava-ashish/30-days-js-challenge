@@ -26,9 +26,11 @@ This app allows users to add, mark as complete, and delete tasks easily.
 ## 📂 Project Structure
 ```bash
 .
+├── assests         # Assets for App
 ├── index.html        # Main HTML file
 ├── style.css         # App styling
-└── script.js         # App logic
+├── script.js         # App logic
+└── README.md         # README.md file
 ```
 
 ## How to run
