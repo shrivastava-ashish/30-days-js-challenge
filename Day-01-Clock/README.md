@@ -2,24 +2,22 @@
 
 # Day 01 - Clock
 
-A simple and responsive **Todo App** built using **HTML, CSS, and JavaScript**.  
-This app allows users to add, mark as complete, and delete tasks easily.  
+A simple and elegant **analog clock** built using **HTML, CSS, and JavaScript**.  
+This project displays the current time dynamically and updates in real-time.  
 
 ---
 
 ## 🚀 Features
-- Add new tasks
-- Mark tasks as **completed**
-- Delete tasks
-- Data persistence with **local storage**
-- Responsive and clean UI
+- Real-time digital clock display
+- Responsive design
+- Lightweight and fast
 
 ---
 
 ## 🛠️ Tech Stack
 - **HTML5** – structure  
-- **CSS3** – styling and responsiveness  
-- **JavaScript (ES6)** – functionality and logic  
+- **CSS3** – styling and animations  
+- **JavaScript (ES6)** – dynamic time updates  
 
 ---
 
@@ -27,9 +25,11 @@ This app allows users to add, mark as complete, and delete tasks easily.
 ```bash
 .
 ├── index.html        # Main HTML file
-├── style.css         # App styling
-└── script.js         # App logic
+├── style.css         # Clock styling
+└── script.js         # Clock logic
+└── README.md         # README.md file
 
+```
 ## How to run
 1. Open `index.html` in any modern browser.  
 2. Or run a local server and navigate to the `day-01` folder.  
