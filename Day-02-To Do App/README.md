@@ -29,10 +29,11 @@ This app allows users to add, mark as complete, and delete tasks easily.
 ├── index.html        # Main HTML file
 ├── style.css         # App styling
 └── script.js         # App logic
+```
 
 ## How to run
 1. Open `index.html` in any modern browser.  
-2. Or run a local server and navigate to the `day-01` folder.  
+2. Or run a local server and navigate to the `day-02` folder.  
 
 ## Screenshot
 ![Day 01 Screenshot](./assets/day-02.png)
