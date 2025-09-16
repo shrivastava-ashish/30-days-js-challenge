@@ -29,8 +29,8 @@ This repo is meant for learning, demos, and portfolio pieces. Use, copy, and ada
 
 | Day | Project |
 |-----:|:--------|
-| 01 | [Day 01 - Clock](Day-01/README.md) |
-| 02 | [Day 02 - To Do App](day-02/README.md) |
+| 01 | [Day 01 - Clock](Day-01-Clock/README.md) |
+| 02 | [Day 02 - To Do App](Day-02-To Do App/README.md) |
 | 03 | [Day 03 - To be added](day-03/README.md) |
 | 04 | [Day 04 - To be added](day-04/README.md) |
 | 05 | [Day 05 - To be added](day-05/README.md) |
@@ -68,7 +68,7 @@ This repo is meant for learning, demos, and portfolio pieces. Use, copy, and ada
 **Locally (quick):**
 1. Clone the repo:
    ```bash
-   git clone https://github.com/shrivastava-ashish/30-days-js
+   git clone https://github.com/shrivastava-ashish/30-days-js-challenge.git
    cd 30-days-js
 2. Navigate to the project folder you want:
    ```bash
