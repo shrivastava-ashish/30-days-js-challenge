@@ -31,7 +31,7 @@ This repo is meant for learning, demos, and portfolio pieces. Use, copy, and ada
 |-----:|:--------|
 | 01 | [Day 01 - Clock](Day-01/README.md) |
 | 02 | [Day 02 - To Do App](Day-02/README.md) |
-| 03 | [Day 03 - To be added](Day-03/README.md) |
+| 03 | [Day 03 - Rock, Paper and Scissors](Day-03/README.md) |
 | 04 | [Day 04 - To be added](Day-04/README.md) |
 | 05 | [Day 05 - To be added](Day-05/README.md) |
 | 06 | [Day 06 - To be added](Day-06/README.md) |
