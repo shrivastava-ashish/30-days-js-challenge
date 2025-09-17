@@ -69,10 +69,10 @@ This repo is meant for learning, demos, and portfolio pieces. Use, copy, and ada
 1. Clone the repo:
    ```bash
    git clone https://github.com/shrivastava-ashish/30-days-js-challenge.git
-   cd 30-days-js
+   cd 30-days-js-challenge
 2. Navigate to the project folder you want:
    ```bash
-   cd day-01
+   cd Day-01
 3. Open the index.html file in your browser (double-click it, or right-click → "Open with Browser").
 
 ---
