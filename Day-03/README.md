@@ -38,4 +38,4 @@ This app allows users to add, mark as complete, and delete tasks easily.
 2. Or run a local server and navigate to the `day-02` folder.  
 
 ## Screenshot
-![Day 02 Screenshot](./assets/day-02.png)
+![Day 03 Screenshot](./assets/day-03.png)
