@@ -1,18 +1,18 @@
 ---
 
-# Day 02 - To Do App
+# Day 03 - Rock, Paper and Scissors
 
-A simple and responsive **Todo App** built using **HTML, CSS, and JavaScript**.  
-This app allows users to add, mark as complete, and delete tasks easily.  
+A fun and interactive **Rock, Paper, Scissors game** built using **HTML, CSS, and JavaScript**.  
+Play against the computer and see if you can win! 
 
 ---
 
 ## 🚀 Features
-- Add new tasks
-- Mark tasks as **completed**
-- Delete tasks
-- Data persistence with **local storage**
-- Responsive and clean UI
+- Choose **Rock, Paper, or Scissors**  
+- Computer randomly selects its move  
+- Instant result display: **Win, Lose, or Draw**  
+- Score tracking for player and computer  
+- Responsive and simple UI  
 
 ---
 
@@ -35,7 +35,7 @@ This app allows users to add, mark as complete, and delete tasks easily.
 
 ## How to run
 1. Open `index.html` in any modern browser.  
-2. Or run a local server and navigate to the `day-02` folder.  
+2. Or run a local server and navigate to the `day-03` folder.  
 
 ## Screenshot
 ![Day 03 Screenshot](./assets/day-03.png)
