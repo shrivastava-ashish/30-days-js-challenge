@@ -3,7 +3,7 @@
 # Day 04 - Color Fliper
 
 A fun and interactive **Color Fliper** built using **HTML, CSS, and JavaScript**.  
-Try to generate different colors by clicking the button! 
+Try to generate different colors by clicking the button!
 
 ---
 
