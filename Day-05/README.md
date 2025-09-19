@@ -1,6 +1,6 @@
 ---
 
-# Day 04 - Palindrome Checker
+# Day 05 - Palindrome Checker
 
 A fun and interactive **Palindrome Checker** built using **HTML, CSS, and JavaScript**.  
 Try to check different sentences whether it is a palindrome or not by clicking the button! 
