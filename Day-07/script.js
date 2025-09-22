@@ -50,5 +50,5 @@ btn.addEventListener("click", () => {
   }
 
   resultDiv.innerHTML = `<h4>BMI: ${bmi}</h4>`;
-  resultDiv.innerHTML += `<h4>Category: ${category}</h4>`;
+  resultDiv.innerHTML += `<h4>Category: ${category}</h4><br />`;
 });

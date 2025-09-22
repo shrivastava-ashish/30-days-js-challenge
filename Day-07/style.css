@@ -127,8 +127,3 @@ button {
     justify-content: center;
     align-items: center;
 }
-
-.right-panel .bmi-value {
-    font-size: 2em;
-    margin-bottom: 10px;
-}
