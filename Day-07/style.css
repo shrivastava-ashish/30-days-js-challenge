@@ -1,0 +1,134 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+body {
+    background: #17313e;
+    color: #fff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+    
+h2 {
+    font-size: 2.4rem;
+    margin-bottom: 4rem;
+}
+
+.container {
+    width: 80%;
+    max-width: 900px;
+    display: flex;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.left-panel {
+    width: 70%;
+    padding-right: 20px;
+    border-right: 2px solid #fff;
+}
+
+.left-panel .gender {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.gender label.selected {
+    border: 3px solid #00ffcc;
+    background-color: rgba(0, 255, 204, 0.1);
+}
+
+.male, .female {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.female {
+    margin-left: 20px;
+}
+
+input[type="radio"] {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+input[type="radio"]:checked {
+    border: 2px solid #17313e;
+    background-color: #fff;
+}
+
+img {
+    width: 40px;
+}
+
+.age, .height, .weight {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    display: inline-flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+input[type='number'] {
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    font-size: 1.1em;
+}
+
+button {
+    width: 100%;
+    height: 50px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    background-color: #17313e;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.right-panel {
+    width: 50%;
+    padding-left: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-panel .bmi-value {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
