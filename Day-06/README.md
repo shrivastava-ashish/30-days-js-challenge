@@ -2,7 +2,7 @@
 
 # Day 06 - Random Quote Generator
 
-A fun and interactive **Palindrome Checker** built using **HTML, CSS, and JavaScript**.  
+A fun and interactive **Random Quote Generator** built using **HTML, CSS, and JavaScript**.  
 The app displays random motivational or inspirational quotes with the option to generate a new one at the click of a button. 
 
 ---
