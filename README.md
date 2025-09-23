@@ -36,7 +36,7 @@ This repo is meant for learning, demos, and portfolio pieces. Use, copy, and ada
 | 05 | [Day 05 - Palindrome Checker](Day-05/README.md) |
 | 06 | [Day 06 - Random Quote Generator](Day-06/README.md) |
 | 07 | [Day 07 - BMI Calculator](Day-07/README.md) |
-| 08 | [Day 08 - To be added](Day-08/README.md) |
+| 08 | [Day 08 - Form Validation](Day-08/README.md) |
 | 09 | [Day 09 - To be added](Day-09/README.md) |
 | 10 | [Day 10 - To be added](Day-10/README.md) |
 | 11 | [Day 11 - To be added](Day-11/README.md) |
