@@ -34,7 +34,7 @@ This app allows users to input their weight and height to calculate their Body M
 
 ## How to run
 1. Open `index.html` in any modern browser.  
-2. Or run a local server and navigate to the `day-03` folder.  
+2. Or run a local server and navigate to the `day-07` folder.  
 
 ## Screenshot
 ![Day 07 Screenshot](./assets/day-07.png)
