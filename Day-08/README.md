@@ -35,7 +35,7 @@ This project demonstrates how to create a user-friendly form with real-time vali
 
 ## How to run
 1. Open `index.html` in any modern browser.  
-2. Or run a local server and navigate to the `day-03` folder.  
+2. Or run a local server and navigate to the `day-08` folder.  
 
 ## Screenshot
 ![Day 08 Screenshot](./assets/day-08.png)
