@@ -33,7 +33,8 @@ The app displays random motivational or inspirational quotes with the option to 
 
 ## How to run
 1. Open `index.html` in any modern browser.  
-2. Or run a local server and navigate to the `day-03` folder.  
+2. Or run a local server and navigate to the `day-06` folder.  
 
 ## Screenshot
 ![Day 06 Screenshot](./assets/day-06.png)
+
