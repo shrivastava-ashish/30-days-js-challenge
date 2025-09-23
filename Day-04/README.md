@@ -35,7 +35,7 @@ Try to generate different colors by clicking the button!
 
 ## How to run
 1. Open `index.html` in any modern browser.  
-2. Or run a local server and navigate to the `day-03` folder.  
+2. Or run a local server and navigate to the `day-04` folder.  
 
 ## Screenshot
 ![Day 04 Screenshot](./assets/day-04.png)
