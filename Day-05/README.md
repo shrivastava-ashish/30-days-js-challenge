@@ -33,7 +33,7 @@ Try to check different sentences whether it is a palindrome or not by clicking t
 
 ## How to run
 1. Open `index.html` in any modern browser.  
-2. Or run a local server and navigate to the `day-03` folder.  
+2. Or run a local server and navigate to the `day-05` folder.  
 
 ## Screenshot
 ![Day 05 Screenshot](./assets/day-05.png)
