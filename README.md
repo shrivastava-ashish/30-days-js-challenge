@@ -1,6 +1,6 @@
 # 30 Days JavaScript Challenge
 
-A collection of 30 small, self-contained JavaScript projects — one project per day — designed to build your JS skills through hands-on practice.
+A collection of 30 small, self-contained JavaScript projects — one project per day — designed to build JS skills through hands-on practice.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
