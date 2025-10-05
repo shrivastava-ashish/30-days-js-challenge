@@ -8,7 +8,7 @@ A collection of 30 small, self-contained JavaScript projects — one project per
 
 ## Table of contents
 - [About](#about)
-- [Projects (quick links)](#projects-quick-links)
+- [Projects Screenshot (quick links)](#projects-quick-links)
 - [How to run](#how-to-run)
 - [License](#license)
 
