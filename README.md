@@ -16,6 +16,7 @@ A collection of 30 small, self-contained JavaScript projects — one project per
 
 ## About
 Each day folder (`day-01` → `day-30`) contains a small project with the minimal files required to run it in the browser:
+- `assets`
 - `index.html`
 - `style.css`
 - `script.js`
