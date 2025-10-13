@@ -4,6 +4,8 @@
 
 A simple and elegant **weather application** built using **HTML, CSS, and JavaScript**.
 
+It fetches real-time weather data from a public API and displays it in a user-friendly interface.
+
 ---
 
 ## 🚀 Features
