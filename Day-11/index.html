@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <h2>Weather App</h2>
+
+    <main>
+        <form>
+            <input type="text" id="search" placeholder="Search">
+            <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+        </form>
+
+        <section class="data">
+            <figure class="name" id="city">
+                <figcaption>New Delhi</figcaption>
+                <img src="https://flagsapi.com/IN/shiny/32.png" alt="india">
+            </figure>
+            <figure class="temperature" id="temperature">
+                <img src="https://openweathermap.org/img/wn/10d@4x.png" alt="weather-image">
+                <figcaption>
+                    <span>31</span>
+                    °C
+                </figcaption>
+            </figure>
+            <p class="description">
+                Overcast Data
+            </p>
+
+            <ul>
+                <li>
+                    <span>Wind</span>
+                    <i class="fa-solid fa-cloud"></i>
+                    <span id="wind">38</span> km/hr
+                </li>
+                <li>
+                    <span>Humidity</span>
+                    <i class="fa-regular fa-snowflake"></i>
+                    <span id="humidity">55</span> %
+                </li>
+                <li>
+                    <span>Pressure</span>
+                    <i class="fa-solid fa-gauge-simple"></i>
+                    <span id="pressure">1001</span> hPA
+                </li>
+            </ul>
+        </section>   
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
