@@ -33,7 +33,7 @@ This project displays a countdown to a specified date and time, updating every s
 ```
 ## How to run
 1. Open `index.html` in any modern browser.  
-2. Or run a local server and navigate to the `day-01` folder.  
+2. Or run a local server and navigate to the `day-09` folder.  
 
 ## Screenshot
 ![Day 09 Screenshot](./assets/day-09.png)
