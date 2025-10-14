@@ -33,7 +33,7 @@ This project allows users to navigate through a series of images with smooth tra
 ```
 ## How to run
 1. Open `index.html` in any modern browser.  
-2. Or run a local server and navigate to the `day-01` folder.  
+2. Or run a local server and navigate to the `day-10` folder.  
 
 ## Screenshot
 ![Day 10 Screenshot](./assets/day-10.png)
