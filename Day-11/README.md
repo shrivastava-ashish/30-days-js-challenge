@@ -35,7 +35,7 @@ It fetches real-time weather data from a public API and displays it in a user-fr
 ```
 ## How to run
 1. Open `index.html` in any modern browser.  
-2. Or run a local server and navigate to the `day-01` folder.  
+2. Or run a local server and navigate to the `day-11` folder.  
 
 ## Screenshot
 ![Day 11 Screenshot](./assets/day-11.png)
