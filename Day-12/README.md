@@ -34,7 +34,7 @@ It allows users to perform basic arithmetic operations like addition, subtractio
 
 ## How to run
 1. Open `index.html` in any modern browser.  
-2. Or run a local server and navigate to the `Day-02` folder.  
+2. Or run a local server and navigate to the `Day-12` folder.  
 
 ## Screenshot
 ![Day 12 Screenshot](./assets/day-12.png)
