@@ -1,0 +1,112 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #17313e;
+}
+
+h2 {
+    font-size: 2.4rem;
+    margin-bottom: 4rem;
+    color: #fff;
+}
+
+.container {
+    width: 450px;
+    height: max-content;
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
+}
+
+.container label {
+    font-weight: 450;
+}
+
+.container .input-box {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+    overflow: hidden;
+    border: 1px solid #555;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+}
+
+.container .input-box input {
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    border-right: 1px solid #555;
+}
+
+.container .input-box input:focus {
+    outline: none;
+}
+
+.container .input-box input::-webkit-outer-spin-button,
+.container .input-box input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    appearance: none;
+    margin: 0;
+}
+
+.container .input-box select {
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 10px;
+}
+
+.container .divider {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.container .divider button {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: transparent;
+}
+
+.container .btn-div {
+    display: flex;
+    justify-content: center;
+}
+
+.container .btn-div>button {
+    padding: 10px 20px;
+    margin-top: 30px;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 30px;
+    color: #fff;
+    background: #17313e;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.container .btn-div>button:active {
+    transform: scale(0.98);
+    background-color: #0e1f27;
+}
