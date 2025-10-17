@@ -1,8 +1,8 @@
 ---
 
-# Day 14 - Markdown Converter
+# Day 14 - Markdown Previewer
 
-A simple and elegant **Markdown Converter** built using **HTML, CSS, and JavaScript**.
+A simple and elegant **Markdown Previewer** built using **HTML, CSS, and JavaScript**.
 This project allows users to convert Markdown text into formatted HTML in real-time.
 
 ---
