@@ -40,7 +40,7 @@ This repo is meant for learning, demos, and portfolio pieces. Use, copy, and ada
 | 08 | [Day 08 - Form Validation](Day-08/README.md) |
 | 09 | [Day 09 - Countdown Timer](Day-09/README.md) |
 | 10 | [Day 10 - Image Carousel](Day-10/README.md) |
-| 11 | [Day 11 - To be added](Day-11/README.md) |
+| 11 | [Day 11 - Weather App](Day-11/README.md) |
 | 12 | [Day 12 - To be added](Day-12/README.md) |
 | 13 | [Day 13 - To be added](Day-13/README.md) |
 | 14 | [Day 14 - To be added](Day-14/README.md) |
