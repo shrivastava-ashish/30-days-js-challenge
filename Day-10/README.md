@@ -26,8 +26,8 @@ This project allows users to navigate through a series of images with smooth tra
 .
 ├── assets            # Assets for App
 ├── index.html        # Main HTML file
-├── style.css         # Clock styling
-├── script.js         # Clock logic
+├── style.css         # Styling
+├── script.js         # Logic
 └── README.md         # README.md file
 
 ```
