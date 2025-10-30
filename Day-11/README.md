@@ -28,8 +28,8 @@ It fetches real-time weather data from a public API and displays it in a user-fr
 .
 ├── assets            # Assets for App
 ├── index.html        # Main HTML file
-├── style.css         # Clock styling
-├── script.js         # Clock logic
+├── style.css         # Styling
+├── script.js         # Logic
 └── README.md         # README.md file
 
 ```
