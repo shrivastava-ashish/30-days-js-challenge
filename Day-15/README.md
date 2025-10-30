@@ -27,8 +27,8 @@ This project allows users to calculate tips based on the bill amount and selecte
 .
 ├── assets            # Assets for App
 ├── index.html        # Main HTML file
-├── style.css         # Clock styling
-├── script.js         # Clock logic
+├── style.css         # Styling
+├── script.js         # Logic
 └── README.md         # README.md file
 
 ```
