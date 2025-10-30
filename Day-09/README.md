@@ -26,8 +26,8 @@ This project displays a countdown to a specified date and time, updating every s
 .
 ├── assets            # Assets for App
 ├── index.html        # Main HTML file
-├── style.css         # Clock styling
-├── script.js         # Clock logic
+├── style.css         # Styling
+├── script.js         # Logic
 └── README.md         # README.md file
 
 ```
