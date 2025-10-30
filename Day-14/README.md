@@ -27,8 +27,8 @@ This project allows users to convert Markdown text into formatted HTML in real-t
 .
 ├── assets            # Assets for App
 ├── index.html        # Main HTML file
-├── style.css         # Clock styling
-├── script.js         # Clock logic
+├── style.css         # Styling
+├── script.js         # Logic
 └── README.md         # README.md file
 
 ```
