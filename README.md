@@ -46,7 +46,7 @@ This repo is meant for learning, demos, and portfolio pieces. Use, copy, and ada
 | 14 | [Day 14 - Markdown Previewer](Day-14/README.md) |
 | 15 | [Day 15 - Tip Calculator](Day-15/README.md) |
 | 16 | [Day 16 - Infinite Scroll](Day-16/README.md) |
-| 17 | [Day 17 - To be added](Day-17/README.md) |
+| 17 | [Day 17 - Quiz Game](Day-17/README.md) |
 | 18 | [Day 18 - To be added](Day-18/README.md) |
 | 19 | [Day 19 - To be added](Day-19/README.md) |
 | 20 | [Day 20 - To be added](Day-20/README.md) |
